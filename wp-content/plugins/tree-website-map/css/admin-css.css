@@ -1,0 +1,165 @@
+
+.wm-maps-filter{
+	margin: 20px 0px 10px;
+}
+div.wm-form{
+	padding-left: 0px;
+}
+div.wm-form button{
+	margin-top: 22px;
+}
+ul.pagination{
+	margin: 0 auto;
+}
+
+.wpLogo{
+background:url(../images/wp-tree.png) left no-repeat;
+height:32px;
+width:32px;
+display:inline;
+float:left;
+margin-top:10px;
+}
+
+
+div.wm-form-container{
+	margin: 5px;
+	padding: 10px;
+	background-color: #ECECEC;
+}
+div.wm-form-container form{
+	background-color:#E8E8E8;
+	padding: 10px;
+	
+}
+div.wm-separated-fields{
+	margin: 10px 0;
+}
+.wp-tree select{
+	height:32px;
+	
+}
+
+div.wm-vertical-map{
+	margin: 10px;
+}
+
+.wm-icon{background: url(../images/try.jpg) no-repeat 0px 0px !important; width: 50px !important; height: 50px !important;}
+/*
+li.wm-li-node{
+	position: relative;
+}
+*/
+img.wm-delete-node{
+	width: 12px;
+	height: 12px;
+	margin-left: 10px;
+}
+
+/* start process message */
+
+div.processMessageContainer{
+	display: none;
+	position: fixed;
+	top: 32px;
+	left: 40%;
+	margin: 0 auto;
+	background-color: #F0E890;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	z-index: 2000;
+	padding: 5px 10px;
+}
+
+div.processMessage{
+	height: 25px;
+	min-width: 250px;
+	padding: 5px 0 0 30px;
+}
+
+div.processMessage.waitingStatus{
+	color: #333333;
+	background: url(../images/ajax-loader_c.gif) no-repeat left center;
+}
+
+div.processMessage.successStatus{
+	color: #006000;
+	background: url(../images/success_24.png) no-repeat left center;
+}
+
+div.processMessage.failureStatus{
+	color: #B02020;
+	background: url(../images/error_24.png) no-repeat left center;
+}
+
+div.processMessage.alertStatus{
+	color: #000000;
+	background: url(../images/alert_24.png) no-repeat left center;
+}
+
+/* end process message */
+
+div.wm-without-label{
+	padding-top: 20px;
+}
+
+label.wm-radio{
+	font-weight: 0;
+}
+
+div.wm-tree-container{
+	margin-top: 30px;
+}
+
+div.colorPicker{
+	float: left;
+	clear: both;
+	width:30px;
+	height:30px;
+	margin:5px;
+	border: 1px solid white;
+}
+
+label.wm-color-label{
+	margin: 10px 0 0 5px;
+}
+
+span.excluded, a.excluded{
+	color: #FF0000 !important;
+}
+
+div.wm-plugin-logo{
+	margin-left:10px;
+	margin-top:5px
+}
+
+div.wm-plugin-logo h1{
+font-size:20px;
+font-weight:normal;
+color:#657f97;
+}
+
+div.wm-plugin-logo img{
+	border: none;
+	width: 64px;
+	height: 64px;
+	float: right;
+}
+
+.wm-maps-table thead tr{
+	background-color: #2A6598;
+	color: #FFFFFF;
+	height:27px;
+	font-size:13px
+}
+.wm-maps-table tbody tr td{
+	padding:1px
+}
+
+.wm-edit-ver-node{
+	color: #9B9B9B;
+	font-style: italic;
+}
+.hidden-node{
+	color: red !important;
+}

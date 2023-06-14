@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/colpick.css" />
+		<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="js/colpick.js"></script>
+	</head>
+	<body>
+		<div id="bg-color-picker" style="width: 150px; height: 150px;"></div>
+	</body>
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			jQuery('#bg-color-picker').colpick({
+				colorScheme: 'dark',
+				layout: 'hex',
+				//color: jQuery('#mp_current_bgcolor').val(),
+				onSubmit:function(hsb, hex, rgb, el){
+					/*jQuery('#mp_current_bgcolor').val(hex);
+					jQuery(el).css('background-color', '#' + hex);
+					jQuery(el).colpickHide();*/
+				}
+			}); //.css('background-color', '#' + jQuery('#mp_current_bgcolor').val());
+		});
+	</script>
+</html>

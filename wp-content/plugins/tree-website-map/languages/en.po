@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Website Map\n"
+"POT-Creation-Date: 2016-04-16 20:26+0200\n"
+"PO-Revision-Date: 2016-04-16 20:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../functions.php:243 ../functions.php:259
+msgid "You do not have permissions to access this page!"
+msgstr ""
+
+#: ../functions.php:1254
+msgid "Add image"
+msgstr ""
+
+#: ../functions.php:1255
+msgid "Submit"
+msgstr ""
+
+#: ../functions.php:2210
+msgid "edit"
+msgstr ""
+
+#: ../functions.php:2212
+msgid "add child node"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:52 ../views/admin/vertical_map.php:86
+msgid "Go back"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:56 ../views/admin/vertical_map.php:91
+msgid "Save and refresh"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:62 ../views/admin/vertical_map.php:101
+msgid "Map Name"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:67
+msgid "Show thumbnail image"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:75
+msgid "Thumbnail size"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:84 ../views/admin/horizontal_map.php:92
+msgid "Thumbnail shape"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:86
+msgid "Square"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:87
+msgid "Circle"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:94
+msgid "Above the title"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:95
+msgid "Under the title"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:102
+msgid "Container width"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:107
+msgid "Container height"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:113
+msgid "Container background color"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:119
+msgid "Title color"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:126
+msgid "Background color"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:134
+msgid "Current node on hover"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:140
+msgid "Parent node on hover"
+msgstr ""
+
+#: ../views/admin/horizontal_map.php:146
+msgid "Child node on hover"
+msgstr ""
+
+#: ../views/admin/maps-view.php:37
+msgid "Add New Horizontal Map"
+msgstr ""
+
+#: ../views/admin/maps-view.php:40
+msgid "Add New Vertical Map"
+msgstr ""
+
+#: ../views/admin/maps-view.php:53 ../views/admin/maps-view.php:80
+msgid "Map Title"
+msgstr ""
+
+#: ../views/admin/maps-view.php:57 ../views/admin/maps-view.php:81
+msgid "Map Type"
+msgstr ""
+
+#: ../views/admin/maps-view.php:65
+msgid "Filter"
+msgstr ""
+
+#: ../views/admin/maps-view.php:82
+msgid "Shortcode"
+msgstr ""
+
+#: ../views/admin/maps-view.php:99
+msgid "Edit"
+msgstr ""
+
+#: ../views/admin/maps-view.php:105
+msgid "Delete"
+msgstr ""
+
+#: ../views/admin/vertical_map.php:43
+msgid "Title"
+msgstr ""
+
+#: ../views/admin/vertical_map.php:48
+msgid "Link"
+msgstr ""
+
+#: ../views/admin/vertical_map.php:56
+msgid "Select thumbnail"
+msgstr ""
+
+#: ../views/admin/vertical_map.php:59
+msgid "Delete thumbnail"
+msgstr ""
+
+#: ../views/admin/vertical_map.php:69
+msgid "Save"
+msgstr ""
+
+#: ../views/admin/vertical_map.php:71
+msgid "Close"
+msgstr ""
+
+#: ../views/admin/vertical_map.php:106
+msgid "Show feature image"
+msgstr ""
+
+#: ../views/admin/vertical_map.php:114
+msgid "Enable hyper link"
+msgstr ""
+
+#: ../views/admin/vertical_map.php:122
+msgid "Number of posts in list"
+msgstr ""
+
+#: ../views/admin/vertical_map.php:135
+msgid "Delete node(s)"
+msgstr ""

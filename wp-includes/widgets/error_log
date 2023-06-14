@@ -1,0 +1,132 @@
+[10-Apr-2022 23:58:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Apr-2022 04:06:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-May-2022 09:31:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-May-2022 12:36:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-May-2022 14:59:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-May-2022 04:05:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-May-2022 14:25:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-May-2022 19:34:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Aug-2022 05:42:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Aug-2022 20:29:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Aug-2022 23:45:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Sep-2022 01:39:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Sep-2022 19:42:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Sep-2022 05:35:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Oct-2022 13:21:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Nov-2022 11:26:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Dec-2022 11:56:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Jan-2023 21:48:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Jan-2023 22:36:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Jan-2023 02:06:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Feb-2023 10:32:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Feb-2023 21:24:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Feb-2023 07:54:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Feb-2023 08:41:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Mar-2023 06:27:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Mar-2023 09:37:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Mar-2023 19:03:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Mar-2023 18:04:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Mar-2023 10:40:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Mar-2023 08:05:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Mar-2023 20:51:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Mar-2023 08:25:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Mar-2023 15:37:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/moniwowk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

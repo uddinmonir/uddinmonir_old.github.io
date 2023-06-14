@@ -1,0 +1,4 @@
+
+.icon-download:before { content: '\e800'; } /* '' */
+.icon-paper-plane:before { content: '\f1d8'; } /* '' */
+.icon-paper-plane-empty:before { content: '\f1d9'; } /* '' */
